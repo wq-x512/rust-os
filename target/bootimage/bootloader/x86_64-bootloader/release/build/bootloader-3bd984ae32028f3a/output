@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=C:\Users\85454\Desktop\project\Rust\os\Cargo.toml
+cargo:rustc-link-search=native=C:\Users\85454\Desktop\project\Rust\os\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-3bd984ae32028f3a\out
+cargo:rustc-link-lib=static=kernel_bin-os
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=\\?\C:\Users\85454\Desktop\project\Rust\os\target\x86_64-os\debug\os
+cargo:rerun-if-changed=build.rs

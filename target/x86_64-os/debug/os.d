@@ -1,0 +1,1 @@
+C:\Users\85454\Desktop\project\Rust\os\target\x86_64-os\debug\os: C:\Users\85454\Desktop\project\Rust\os\src\interrupts.rs C:\Users\85454\Desktop\project\Rust\os\src\lib.rs C:\Users\85454\Desktop\project\Rust\os\src\main.rs C:\Users\85454\Desktop\project\Rust\os\src\serial.rs C:\Users\85454\Desktop\project\Rust\os\src\vga_buffer.rs
